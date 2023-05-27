@@ -1,0 +1,137 @@
+whdlOFDMTx/Frame Controller and Input Sampler/Enable Header and Preamble /Falling Edge Detector1 --> whdlOFDMTx_Falling_Edge_Detector1
+whdlOFDMTx/Frame Controller and Input Sampler/Enable Header and Preamble /Falling Edge Detector2 --> whdlOFDMTx_Falling_Edge_Detector2
+whdlOFDMTx/Frame Controller and Input Sampler/Enable Header and Preamble /MATLAB Function3 --> whdlOFDMTx_MATLAB_Function3
+whdlOFDMTx/Frame Controller and Input Sampler/Enable Header and Preamble /MATLAB Function4 --> whdlOFDMTx_MATLAB_Function4
+whdlOFDMTx/Frame Controller and Input Sampler/Enable Header and Preamble  --> whdlOFDMTx_Enable_Header_and_Preamble
+whdlOFDMTx/Frame Controller and Input Sampler/Frame Controller/Generate OFDM Modulator Ready/Control OFDM Signal Generation/Disable OFDM Generation/MATLAB Function5 --> whdlOFDMTx_MATLAB_Function5
+whdlOFDMTx/Frame Controller and Input Sampler/Frame Controller/Generate OFDM Modulator Ready/Control OFDM Signal Generation/Disable OFDM Generation --> whdlOFDMTx_Disable_OFDM_Generation
+whdlOFDMTx/Frame Controller and Input Sampler/Frame Controller/Generate OFDM Modulator Ready/Control OFDM Signal Generation/Falling Edge Detector --> whdlOFDMTx_Falling_Edge_Detector
+whdlOFDMTx/Frame Controller and Input Sampler/Frame Controller/Generate OFDM Modulator Ready/Control OFDM Signal Generation/Pulse Generator --> whdlOFDMTx_Pulse_Generator
+whdlOFDMTx/Frame Controller and Input Sampler/Frame Controller/Generate OFDM Modulator Ready/Control OFDM Signal Generation/MATLAB Function2 --> whdlOFDMTx_MATLAB_Function2
+whdlOFDMTx/Frame Controller and Input Sampler/Frame Controller/Generate OFDM Modulator Ready/Control OFDM Signal Generation --> whdlOFDMTx_Control_OFDM_Signal_Generation
+whdlOFDMTx/Frame Controller and Input Sampler/Frame Controller/Generate OFDM Modulator Ready/Rising Edge Detector --> whdlOFDMTx_Rising_Edge_Detector
+whdlOFDMTx/Frame Controller and Input Sampler/Frame Controller/Generate OFDM Modulator Ready/MATLAB Function1 --> whdlOFDMTx_MATLAB_Function1
+whdlOFDMTx/Frame Controller and Input Sampler/Frame Controller/Generate OFDM Modulator Ready --> whdlOFDMTx_Generate_OFDM_Modulator_Ready
+whdlOFDMTx/Frame Controller and Input Sampler/Frame Controller/Generate Transmitter Ready --> whdlOFDMTx_Generate_Transmitter_Ready
+whdlOFDMTx/Frame Controller and Input Sampler/Frame Controller --> whdlOFDMTx_Frame_Controller
+whdlOFDMTx/Frame Controller and Input Sampler/Input Sampler --> whdlOFDMTx_Input_Sampler
+whdlOFDMTx/Frame Controller and Input Sampler --> whdlOFDMTx_Frame_Controller_and_Input_Sampler
+whdlOFDMTx/Frame Formation and OFDM Modulation/Generate OFDM Modulator Valid/Counter for Read Address --> whdlOFDMTx_Counter_for_Read_Address
+whdlOFDMTx/Frame Formation and OFDM Modulation/Generate OFDM Modulator Valid --> whdlOFDMTx_Generate_OFDM_Modulator_Valid
+whdlOFDMTx/Frame Formation and OFDM Modulation/Generate RAM Inputs --> whdlOFDMTx_Generate_RAM_Inputs
+whdlOFDMTx/Frame Formation and OFDM Modulation/Make OFDM Valid Continuous/Random OFDM Symbol --> whdlOFDMTx_Random_OFDM_Symbol
+whdlOFDMTx/Frame Formation and OFDM Modulation/Make OFDM Valid Continuous/Rising Edge Detector --> whdlOFDMTx_Rising_Edge_Detector_block
+whdlOFDMTx/Frame Formation and OFDM Modulation/Make OFDM Valid Continuous --> whdlOFDMTx_Make_OFDM_Valid_Continuous
+SimpleDualPortRAM_generic --> whdlOFDMTx_SimpleDualPortRAM_generic
+ --> whdlOFDMTx_CPAddition
+ --> whdlOFDMTx_HDLFFTShiftMod
+ --> whdlOFDMTx_symbolFormation
+dsphdl.IFFT/RADIX22FFT_SDF1_1/SimpleDualPortRAM_generic --> whdlOFDMTx_SimpleDualPortRAM_generic_block
+dsphdl.IFFT/RADIX22FFT_SDF1_1/SDFCommutator1 --> whdlOFDMTx_SDFCommutator1
+dsphdl.IFFT/RADIX22FFT_SDF1_1 --> whdlOFDMTx_RADIX22FFT_SDF1_1
+dsphdl.IFFT/RADIX22FFT_CTRL1_1 --> whdlOFDMTx_RADIX22FFT_CTRL1_1
+dsphdl.IFFT/RADIX22FFT_SDF2_2/SDFCommutator2 --> whdlOFDMTx_SDFCommutator2
+dsphdl.IFFT/RADIX22FFT_SDF2_2 --> whdlOFDMTx_RADIX22FFT_SDF2_2
+dsphdl.IFFT/RADIX22FFT_CTRL1_2 --> whdlOFDMTx_RADIX22FFT_CTRL1_2
+dsphdl.IFFT/TWDLROM_3_1 --> whdlOFDMTx_TWDLROM_3_1
+dsphdl.IFFT/RADIX22FFT_SDF1_3/Complex4Multiply --> whdlOFDMTx_Complex4Multiply
+dsphdl.IFFT/RADIX22FFT_SDF1_3/SDFCommutator3 --> whdlOFDMTx_SDFCommutator3
+dsphdl.IFFT/RADIX22FFT_SDF1_3 --> whdlOFDMTx_RADIX22FFT_SDF1_3
+dsphdl.IFFT/RADIX22FFT_CTRL1_3 --> whdlOFDMTx_RADIX22FFT_CTRL1_3
+dsphdl.IFFT/RADIX22FFT_SDF2_4/SDFCommutator4 --> whdlOFDMTx_SDFCommutator4
+dsphdl.IFFT/RADIX22FFT_SDF2_4 --> whdlOFDMTx_RADIX22FFT_SDF2_4
+dsphdl.IFFT/RADIX22FFT_CTRL1_4 --> whdlOFDMTx_RADIX22FFT_CTRL1_4
+dsphdl.IFFT/TWDLROM_5_1 --> whdlOFDMTx_TWDLROM_5_1
+dsphdl.IFFT/RADIX22FFT_SDF1_5/Complex4Multiply --> whdlOFDMTx_Complex4Multiply_block
+dsphdl.IFFT/RADIX22FFT_SDF1_5/SDFCommutator5 --> whdlOFDMTx_SDFCommutator5
+dsphdl.IFFT/RADIX22FFT_SDF1_5 --> whdlOFDMTx_RADIX22FFT_SDF1_5
+dsphdl.IFFT/RADIX22FFT_CTRL1_5 --> whdlOFDMTx_RADIX22FFT_CTRL1_5
+dsphdl.IFFT/RADIX22FFT_SDF2_6/SDFCommutator6 --> whdlOFDMTx_SDFCommutator6
+dsphdl.IFFT/RADIX22FFT_SDF2_6 --> whdlOFDMTx_RADIX22FFT_SDF2_6
+dsphdl.IFFT/RADIX22FFT_CTRL1_6 --> whdlOFDMTx_RADIX22FFT_CTRL1_6
+dsphdl.IFFT/TWDLROM_7_1 --> whdlOFDMTx_TWDLROM_7_1
+dsphdl.IFFT/RADIX22FFT_SDF1_7/Complex4Multiply --> whdlOFDMTx_Complex4Multiply_block1
+dsphdl.IFFT/RADIX22FFT_SDF1_7/SDFCommutator7 --> whdlOFDMTx_SDFCommutator7
+dsphdl.IFFT/RADIX22FFT_SDF1_7 --> whdlOFDMTx_RADIX22FFT_SDF1_7
+dsphdl.IFFT/RADIX22FFT_CTRL1_1 --> whdlOFDMTx_RADIX22FFT_CTRL1_1_block
+dsphdl.IFFT/RADIX2FFT_bitNatural --> whdlOFDMTx_RADIX2FFT_bitNatural
+dsphdl.IFFT --> whdlOFDMTx_dsphdl_IFFT
+whdlOFDMTx/Frame Formation and OFDM Modulation/OFDM Modulator --> whdlOFDMTx_OFDM_Modulator
+whdlOFDMTx/Frame Formation and OFDM Modulation/DualRateDualPortRAM_generic --> whdlOFDMTx_DualRateDualPortRAM_generic
+whdlOFDMTx/Frame Formation and OFDM Modulation --> whdlOFDMTx_Frame_Formation_and_OFDM_Modulation
+whdlOFDMTx/Frame Generator/Data/Data Chain/Create Control Bus/Sample Control Bus Creator --> whdlOFDMTx_Sample_Control_Bus_Creator
+whdlOFDMTx/Frame Generator/Data/Data Chain/Create Control Bus --> whdlOFDMTx_Create_Control_Bus
+whdlOFDMTx/Frame Generator/Data/Data Chain/Scrambler --> whdlOFDMTx_Scrambler
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Generate Ready/Generate Ready2 --> whdlOFDMTx_Generate_Ready2
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Generate Ready/MATLAB Function1 --> whdlOFDMTx_MATLAB_Function1_block
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Generate Ready --> whdlOFDMTx_Generate_Ready
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Read Logic/Generate Base Read Address --> whdlOFDMTx_Generate_Base_Read_Address
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Read Logic/Generate Output Control Signals --> whdlOFDMTx_Generate_Output_Control_Signals
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Read Logic/Generate Read Address --> whdlOFDMTx_Generate_Read_Address
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Read Logic/MATLAB Function --> whdlOFDMTx_MATLAB_Function
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Read Logic --> whdlOFDMTx_Read_Logic
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Write Logic/Generate Write Address --> whdlOFDMTx_Generate_Write_Address
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Write Logic/Handle Input Control Signals/Generate Current Frame Status --> whdlOFDMTx_Generate_Current_Frame_Status
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Write Logic/Handle Input Control Signals/Generate Forced End --> whdlOFDMTx_Generate_Forced_End
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Write Logic/Handle Input Control Signals --> whdlOFDMTx_Handle_Input_Control_Signals
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Write Logic --> whdlOFDMTx_Write_Logic
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/SimpleDualPortRAM_singlebit --> whdlOFDMTx_SimpleDualPortRAM_singlebit
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Store_Block_Lengths/SimpleDualPortRAM_generic --> whdlOFDMTx_SimpleDualPortRAM_generic_block1
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver/Store_Block_Lengths --> whdlOFDMTx_Store_Block_Lengths
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Interleaver --> whdlOFDMTx_Interleaver
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver/Split Data Into Symbols --> whdlOFDMTx_Split_Data_Into_Symbols
+whdlOFDMTx/Frame Generator/Data/Data Chain/Symbol Interleaver --> whdlOFDMTx_Symbol_Interleaver
+whdlOFDMTx/Frame Generator/Data/Data Chain/LTE Symbol Modulator --> whdlOFDMTx_LTE_Symbol_Modulator
+whdlOFDMTx/Frame Generator/Data/Data Chain/Puncturer --> whdlOFDMTx_Puncturer
+whdlOFDMTx/Frame Generator/Data/Data Chain/Convolutional Encoder/controlUnit --> whdlOFDMTx_controlUnit
+whdlOFDMTx/Frame Generator/Data/Data Chain/Convolutional Encoder --> whdlOFDMTx_Convolutional_Encoder
+whdlOFDMTx/Frame Generator/Data/Data Chain/General CRC Generator HDL Optimized/CRCGenControl --> whdlOFDMTx_CRCGenControl
+whdlOFDMTx/Frame Generator/Data/Data Chain/General CRC Generator HDL Optimized/CRCGenCompute --> whdlOFDMTx_CRCGenCompute
+whdlOFDMTx/Frame Generator/Data/Data Chain/General CRC Generator HDL Optimized --> whdlOFDMTx_General_CRC_Generator_HDL_Optimized
+whdlOFDMTx/Frame Generator/Data/Data Chain --> whdlOFDMTx_Data_Chain
+whdlOFDMTx/Frame Generator/Data/Data and Control Signal Generation/Select Puncture Vector --> whdlOFDMTx_Select_Puncture_Vector
+whdlOFDMTx/Frame Generator/Data/Data and Control Signal Generation/SimpleDualPortRAM_singlebit --> whdlOFDMTx_SimpleDualPortRAM_singlebit_block
+whdlOFDMTx/Frame Generator/Data/Data and Control Signal Generation --> whdlOFDMTx_Data_and_Control_Signal_Generation
+whdlOFDMTx/Frame Generator/Data --> whdlOFDMTx_Data
+whdlOFDMTx/Frame Generator/Generate Preamble Control Signals --> whdlOFDMTx_Generate_Preamble_Control_Signals
+whdlOFDMTx/Frame Generator/Header/Create Control Bus/Sample Control Bus Creator --> whdlOFDMTx_Sample_Control_Bus_Creator_block
+whdlOFDMTx/Frame Generator/Header/Create Control Bus --> whdlOFDMTx_Create_Control_Bus_block
+whdlOFDMTx/Frame Generator/Header/Interleaver/Generate Ready/Generate Ready2 --> whdlOFDMTx_Generate_Ready2_block
+whdlOFDMTx/Frame Generator/Header/Interleaver/Generate Ready/MATLAB Function1 --> whdlOFDMTx_MATLAB_Function1_block1
+whdlOFDMTx/Frame Generator/Header/Interleaver/Generate Ready --> whdlOFDMTx_Generate_Ready_block
+whdlOFDMTx/Frame Generator/Header/Interleaver/Read Logic/Generate Base Read Address --> whdlOFDMTx_Generate_Base_Read_Address_block
+whdlOFDMTx/Frame Generator/Header/Interleaver/Read Logic/Generate Output Control Signals --> whdlOFDMTx_Generate_Output_Control_Signals_block
+whdlOFDMTx/Frame Generator/Header/Interleaver/Read Logic/Generate Read Address --> whdlOFDMTx_Generate_Read_Address_block
+whdlOFDMTx/Frame Generator/Header/Interleaver/Read Logic/MATLAB Function --> whdlOFDMTx_MATLAB_Function_block
+whdlOFDMTx/Frame Generator/Header/Interleaver/Read Logic --> whdlOFDMTx_Read_Logic_block
+whdlOFDMTx/Frame Generator/Header/Interleaver/Write Logic/Generate Write Address --> whdlOFDMTx_Generate_Write_Address_block
+whdlOFDMTx/Frame Generator/Header/Interleaver/Write Logic/Handle Input Control Signals/Generate Current Frame Status --> whdlOFDMTx_Generate_Current_Frame_Status_block
+whdlOFDMTx/Frame Generator/Header/Interleaver/Write Logic/Handle Input Control Signals/Generate Forced End --> whdlOFDMTx_Generate_Forced_End_block
+whdlOFDMTx/Frame Generator/Header/Interleaver/Write Logic/Handle Input Control Signals --> whdlOFDMTx_Handle_Input_Control_Signals_block
+whdlOFDMTx/Frame Generator/Header/Interleaver/Write Logic --> whdlOFDMTx_Write_Logic_block
+whdlOFDMTx/Frame Generator/Header/Interleaver/Store_Block_Lengths --> whdlOFDMTx_Store_Block_Lengths_block
+whdlOFDMTx/Frame Generator/Header/Interleaver --> whdlOFDMTx_Interleaver_block
+whdlOFDMTx/Frame Generator/Header/Serializer/Serialize Start and End Signals --> whdlOFDMTx_Serialize_Start_and_End_Signals
+whdlOFDMTx/Frame Generator/Header/Serializer --> whdlOFDMTx_Serializer
+whdlOFDMTx/Frame Generator/Header/Header Formation --> whdlOFDMTx_Header_Formation
+whdlOFDMTx/Frame Generator/Header/LTE Symbol Modulator --> whdlOFDMTx_LTE_Symbol_Modulator_block
+whdlOFDMTx/Frame Generator/Header/Convolutional Encoder/controlUnit --> whdlOFDMTx_controlUnit_block
+whdlOFDMTx/Frame Generator/Header/Convolutional Encoder --> whdlOFDMTx_Convolutional_Encoder_block
+whdlOFDMTx/Frame Generator/Header/General CRC Generator HDL Optimized/CRCGenControl --> whdlOFDMTx_CRCGenControl_block
+whdlOFDMTx/Frame Generator/Header/General CRC Generator HDL Optimized/CRCGenCompute --> whdlOFDMTx_CRCGenCompute_block
+whdlOFDMTx/Frame Generator/Header/General CRC Generator HDL Optimized --> whdlOFDMTx_General_CRC_Generator_HDL_Optimized_block
+whdlOFDMTx/Frame Generator/Header --> whdlOFDMTx_Header
+whdlOFDMTx/Frame Generator/Pilot --> whdlOFDMTx_Pilot
+whdlOFDMTx/Frame Generator/Reference Signals --> whdlOFDMTx_Reference_Signals
+whdlOFDMTx/Frame Generator/Synchronization Sequence --> whdlOFDMTx_Synchronization_Sequence
+whdlOFDMTx/Frame Generator --> whdlOFDMTx_Frame_Generator
+whdlOFDMTx/Multiplexer/Multiplex Header and Data Signals --> whdlOFDMTx_Multiplex_Header_and_Data_Signals
+whdlOFDMTx/Multiplexer/Multiplex Preamble Signals/Priority Encoder --> whdlOFDMTx_Priority_Encoder
+whdlOFDMTx/Multiplexer/Multiplex Preamble Signals --> whdlOFDMTx_Multiplex_Preamble_Signals
+whdlOFDMTx/Multiplexer --> whdlOFDMTx_Multiplexer
+whdlOFDMTx/Discrete FIR Filter/Filter/FilterCoef --> whdlOFDMTx_FilterCoef
+whdlOFDMTx/Discrete FIR Filter/Filter/subFilter/FilterTapSystolicPreAddWvlIn --> whdlOFDMTx_FilterTapSystolicPreAddWvlIn
+whdlOFDMTx/Discrete FIR Filter/Filter/subFilter --> whdlOFDMTx_subFilter
+whdlOFDMTx/Discrete FIR Filter/Filter --> whdlOFDMTx_Filter
+whdlOFDMTx/Discrete FIR Filter --> whdlOFDMTx_Discrete_FIR_Filter
+whdlOFDMTx --> whdlOFDMTx_whdlOFDMTx
